@@ -2,6 +2,8 @@
 
 *A strategic bidding agent for sequential second-price auctions, with a simulator to benchmark it against baseline strategies.*
 
+> Built for an algorithmic game theory hackathon — the agent competed in a live tournament against other autonomous agents under a shared-budget, partial-information setting.
+
 ## Overview
 
 Each game is a sequence of 15 single-item auctions. Every competitor starts with
