@@ -1,4 +1,4 @@
-# Auction Bidding Agent
+# Auction Bidding Agent — Hackathon Project
 
 *A strategic bidding agent for sequential second-price auctions, with a simulator to benchmark it against baseline strategies.*
 
